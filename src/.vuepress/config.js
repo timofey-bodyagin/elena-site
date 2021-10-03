@@ -37,4 +37,5 @@ module.exports = {
     nav: NAV,
     sidebar: SIDEBAR
   },
+  base: "/elena-site/"
 };
